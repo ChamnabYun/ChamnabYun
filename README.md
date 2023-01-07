@@ -4,7 +4,7 @@
   <samp>
     Hi, I'm Chamnab! 👋 <br>
     🔥 Software Developer grinding hard to make something cool <br>
-    :sparkles: Favorite Tech: Typescript, AngularJS, Ionic, Laravel, Python ... <br>
+    :sparkles: Favorite Tech: NodeJs, Typescript, Angular, Vue, Ionic, Laravel, Python ... <br>
     :email:	nab.cham.yun@gmail.com <br>
     :art: Portfolio: https://chamnabyun.github.io <br>
     :briefcase: LinkedIn: https://www.linkedin.com/in/yun-chamnab <br>
