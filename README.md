@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ChamnabYun/ChamnabYun/main/Business%20Card.png"/>
+<img src="https://raw.githubusercontent.com/ChamnabYun/ChamnabYun/main/Business-Card.png"/>
 <hr></hr>
 <p align="center">
   <samp>
